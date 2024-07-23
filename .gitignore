@@ -84,7 +84,7 @@ web_modules/
 .parcel-cache
 
 # React build output
-.build
+build
 
 # Next.js build output
 .next
